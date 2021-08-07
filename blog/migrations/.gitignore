@@ -1,0 +1,11 @@
+#Python
+__pycache__
+
+#env
+venv/
+
+#Database
+db.sqlite3
+
+#Static folder at root project
+.vscode/
